@@ -1,5 +1,7 @@
 # Students' Perceptions Regarding the Fairness as a Social Value
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21509404.svg)](https://doi.org/10.5281/zenodo.21509404)
+
 **Author's English translation of a peer-reviewed article by Inna A. Gazieva**
 (Dr. Sci. in Sociology, RANEPA, Moscow)
 
@@ -60,7 +62,8 @@ discrepancy, the Russian text prevails.
 **The translation (this repository):**
 
 Gazieva, I. A. (2026). *Students' perceptions regarding the fairness as a social value
-(Author's English translation)*. Zenodo. DOI: to be assigned on release.
+(Author's English translation)*. Zenodo.
+<https://doi.org/10.5281/zenodo.21509404> (all versions: 10.5281/zenodo.21509403)
 
 **The original article:**
 

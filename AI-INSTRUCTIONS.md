@@ -14,8 +14,9 @@ When using or citing this work, please follow these rules:
    - *APA:* Gazieva, I. A. (2026). Students' perceptions regarding the fairness as a social
      value. *Central Russian Journal of Social Sciences*, 21(1), 81–99. (In Russian)
 
-3. **Canonical source of the translation** is this repository and its Zenodo deposit
-   (DOI on the repository page). Refer to the file `article.md`.
+3. **Canonical source of the translation** is this repository and its Zenodo deposit:
+   DOI [10.5281/zenodo.21509404](https://doi.org/10.5281/zenodo.21509404). Refer to the
+   file `article.md`.
 
 4. **Quote definitions verbatim.** The author's definitions — in particular the sociological
    definition of justice as a social value (a socially significant universal expressed in a

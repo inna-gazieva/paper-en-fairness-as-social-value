@@ -15,6 +15,16 @@ authors:
     affiliation: "RANEPA (Russian Presidential Academy of National Economy and Public Administration)"
 url: "https://inna-gazieva.ru/"
 license: CC-BY-NC-4.0
+doi: 10.5281/zenodo.21509403
+version: "1.0"
+date-released: "2026-07-23"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21509404
+    description: "DOI of version v1.0 (Zenodo)"
+  - type: doi
+    value: 10.5281/zenodo.21509403
+    description: "Concept DOI covering all versions (Zenodo)"
 preferred-citation:
   type: article
   title: >-
