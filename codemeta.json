@@ -1,0 +1,34 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "CreativeWork",
+  "name": "Students' perceptions regarding the fairness as a social value (Author's English translation)",
+  "description": "Author's English translation of a peer-reviewed sociology article. Original (version of record, in Russian): Central Russian Journal of Social Sciences, 2026, vol. 21, no. 1, pp. 81-99, EDN RQSSEN, CC BY-NC 4.0.",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Inna",
+      "familyName": "Gazieva",
+      "@id": "https://orcid.org/0000-0002-0778-7171",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "The Russian Presidential Academy of National Economy and Public Administration (RANEPA)"
+      },
+      "url": "https://inna-gazieva.ru/"
+    }
+  ],
+  "inLanguage": "en",
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "keywords": [
+    "sociology of values",
+    "justice",
+    "social justice",
+    "fairness",
+    "sociology of youth",
+    "social values",
+    "traditional Russian values",
+    "student youth"
+  ],
+  "datePublished": "2026-07-23",
+  "isBasedOn": "https://orelvestnik.ru/index.php/srvon/article/view/313",
+  "sameAs": "https://elibrary.ru/rqssen"
+}

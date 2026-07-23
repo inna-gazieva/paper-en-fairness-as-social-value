@@ -1,0 +1,56 @@
+{
+  "upload_type": "publication",
+  "publication_type": "article",
+  "title": "Students' perceptions regarding the fairness as a social value (Author's English translation)",
+  "description": "<p>Author's English translation of a peer-reviewed article originally published in Russian: Газиева И. А. Ценность справедливости в восприятии студенческой молодежи // Среднерусский вестник общественных наук. 2026. Том 21. № 1. С. 81–99. EDN RQSSEN. Journal's official English citation: Gazieva, I. A. (2026) Students' Perceptions Regarding the Fairness as a Social Value. Central Russian Journal of Social Sciences. Vol. 21, no. 1, pp. 81–99.</p><p>The article proposes a sociological definition of justice as a social value, as distinct from its traditional understanding as a legal principle, an ethical ideal, or a political slogan. Drawing on an interdisciplinary synthesis of philosophical concepts of justice (Plato, Aristotle, Rawls, Höffe) and sociological theories of values (Parsons, Schwartz), the author applies her four-category empirical model of social value analysis (the Ideal — the Desired — the Expected — the Real) to survey data from RANEPA students (N = 4338, online survey «Traditional and Strategic Values of Student Youth», May–June 2023). The study confirms the integrity of justice as a social value, reveals the high internal consistency of its components — from the meritocratic ideal to real behavior — and identifies the «responsibility–justice» link (Spearman's ρ up to 0.718) as the core of the value structure.</p><p>The translation preserves the structure, tables, footnotes, and reference list of the original publication. The original was published open access under CC BY-NC 4.0 and is the version of record. Original article page: https://orelvestnik.ru/index.php/srvon/article/view/313</p>",
+  "creators": [
+    {
+      "name": "Gazieva, Inna",
+      "orcid": "0000-0002-0778-7171",
+      "affiliation": "RANEPA (Russian Presidential Academy of National Economy and Public Administration)"
+    }
+  ],
+  "publication_date": "2026-07-23",
+  "language": "eng",
+  "license": "cc-by-nc-4.0",
+  "keywords": [
+    "sociology of values",
+    "justice",
+    "social justice",
+    "fairness",
+    "sociology of youth",
+    "social values",
+    "traditional Russian values",
+    "student youth",
+    "социология ценностей",
+    "справедливость",
+    "ценности молодежи"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://orelvestnik.ru/index.php/srvon/article/view/313",
+      "relation": "isVariantFormOf",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "https://elibrary.ru/rqssen",
+      "relation": "isAlternateIdentifier"
+    },
+    {
+      "identifier": "10.12737/2133680",
+      "relation": "isDerivedFrom",
+      "resource_type": "publication-book"
+    },
+    {
+      "identifier": "10.5281/zenodo.21500892",
+      "relation": "references",
+      "resource_type": "publication-thesis"
+    },
+    {
+      "identifier": "10.5281/zenodo.21508549",
+      "relation": "references",
+      "resource_type": "publication-article"
+    }
+  ],
+  "notes": "Author's English translation; the Russian original (Central Russian Journal of Social Sciences, 2026, vol. 21, no. 1, pp. 81–99, EDN RQSSEN, CC BY-NC 4.0) is the version of record. Author: https://inna-gazieva.ru/ · ORCID 0000-0002-0778-7171 · Wikidata Q140355257."
+}

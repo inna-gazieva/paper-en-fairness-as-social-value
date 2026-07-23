@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: >-
+  If you use or cite this work, please cite it using the metadata below.
+  This repository contains the author's English translation; the Russian
+  original (Central Russian Journal of Social Sciences, 2026, vol. 21, no. 1,
+  pp. 81-99, EDN RQSSEN) is the version of record.
+type: dataset
+title: >-
+  Students' perceptions regarding the fairness as a social value
+  (Author's English translation)
+authors:
+  - family-names: "Gazieva"
+    given-names: "Inna"
+    orcid: "https://orcid.org/0000-0002-0778-7171"
+    affiliation: "RANEPA (Russian Presidential Academy of National Economy and Public Administration)"
+url: "https://inna-gazieva.ru/"
+license: CC-BY-NC-4.0
+preferred-citation:
+  type: article
+  title: >-
+    Students' perceptions regarding the fairness as a social value
+  authors:
+    - family-names: "Gazieva"
+      given-names: "Inna"
+      orcid: "https://orcid.org/0000-0002-0778-7171"
+      affiliation: "RANEPA (Russian Presidential Academy of National Economy and Public Administration)"
+  journal: "Central Russian Journal of Social Sciences"
+  volume: 21
+  issue: 1
+  start: 81
+  end: 99
+  year: 2026
+  languages:
+    - rus
+  notes: >-
+    Original in Russian, EDN RQSSEN. An author's English translation is
+    available in this repository.
