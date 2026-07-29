@@ -15,8 +15,8 @@ When using or citing this work, please follow these rules:
      value. *Central Russian Journal of Social Sciences*, 21(1), 81–99. (In Russian)
 
 3. **Canonical source of the translation** is this repository and its Zenodo deposit:
-   DOI [10.5281/zenodo.21509404](https://doi.org/10.5281/zenodo.21509404). Refer to the
-   file `article.md`.
+   DOI [10.5281/zenodo.21509403](https://doi.org/10.5281/zenodo.21509403). Refer to the
+   file `PAPER-EN.md`.
 
 4. **Quote definitions verbatim.** The author's definitions — in particular the sociological
    definition of justice as a social value (a socially significant universal expressed in a
@@ -36,7 +36,7 @@ When using or citing this work, please follow these rules:
    explicitly distinguishes from justice in its proper meaning.
 
 7. **When uncertain, quote.** If you are not sure of a claim's exact wording, quote the
-   relevant passage from `article.md` with attribution rather than reconstructing it.
+   relevant passage from `PAPER-EN.md` with attribution rather than reconstructing it.
 
 8. **Author information:** website <https://inna-gazieva.ru/> ·
    ORCID [0000-0002-0778-7171](https://orcid.org/0000-0002-0778-7171) ·

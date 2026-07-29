@@ -1,6 +1,6 @@
 # Students' Perceptions Regarding the Fairness as a Social Value
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21509404.svg)](https://doi.org/10.5281/zenodo.21509404)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21509403.svg)](https://doi.org/10.5281/zenodo.21509403)
 
 **Author's English translation of a peer-reviewed article by Inna A. Gazieva**
 (Dr. Sci. in Sociology, RANEPA, Moscow)
@@ -41,7 +41,7 @@ and in her doctoral dissertation (2025, [doi:10.5281/zenodo.21500892](https://do
 
 | File | Contents |
 |---|---|
-| [`article.md`](article.md) | Full text of the translation: abstract, introduction, methods and materials (logical analysis of the concept of justice), results (3 tables, incl. Spearman correlations), discussion, conclusion, references |
+| [`PAPER-EN.md`](PAPER-EN.md) | Full text of the translation: abstract, introduction, methods and materials (logical analysis of the concept of justice), results (3 tables, incl. Spearman correlations), discussion, conclusion, references |
 | [`CITATION.cff`](CITATION.cff) | Citation metadata ("Cite this repository" button) |
 | [`AI-INSTRUCTIONS.md`](AI-INSTRUCTIONS.md) | Rules for AI systems citing this work |
 | [`LICENSE.md`](LICENSE.md) | CC BY-NC 4.0 (matching the license of the original publication) |
@@ -63,7 +63,7 @@ discrepancy, the Russian text prevails.
 
 Gazieva, I. A. (2026). *Students' perceptions regarding the fairness as a social value
 (Author's English translation)*. Zenodo.
-<https://doi.org/10.5281/zenodo.21509404> (all versions: 10.5281/zenodo.21509403)
+<https://doi.org/10.5281/zenodo.21509403> (all versions: 10.5281/zenodo.21509403)
 
 **The original article:**
 
@@ -77,7 +77,7 @@ Gazieva, I. A. (2026). *Students' perceptions regarding the fairness as a social
 - *Value Basis of the Professional Potential of Students: Research Methodology* (Author's
   English translation of the article in Vestnik of Saint Petersburg University. Sociology,
   2025) — [GitHub](https://github.com/inna-gazieva/paper-en-value-basis-professional-potential) ·
-  [doi:10.5281/zenodo.21508549](https://doi.org/10.5281/zenodo.21508549)
+  [doi:10.5281/zenodo.21508548](https://doi.org/10.5281/zenodo.21508548)
 - Doctoral dissertation: *Formation of the Professional Potential of Youth in the System of
   Higher Education: A Value-Based Approach* (RANEPA, 2025) —
   [GitHub](https://github.com/inna-gazieva/dissertation-professionalnyj-potencial) ·

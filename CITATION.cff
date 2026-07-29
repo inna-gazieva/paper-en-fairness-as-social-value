@@ -20,7 +20,7 @@ version: "1.0"
 date-released: "2026-07-23"
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.21509404
+    value: 10.5281/zenodo.21509403
     description: "DOI of version v1.0 (Zenodo)"
   - type: doi
     value: 10.5281/zenodo.21509403
