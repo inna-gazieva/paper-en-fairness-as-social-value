@@ -50,6 +50,11 @@
       "identifier": "10.5281/zenodo.21508549",
       "relation": "references",
       "resource_type": "publication-article"
+    },
+    {
+      "identifier": "10.31235/osf.io/9sk46_v1",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication-preprint"
     }
   ],
   "notes": "Author's English translation; the Russian original (Central Russian Journal of Social Sciences, 2026, vol. 21, no. 1, pp. 81–99, EDN RQSSEN, CC BY-NC 4.0) is the version of record. Author: https://inna-gazieva.ru/ · ORCID 0000-0002-0778-7171 · Wikidata Q140355257."

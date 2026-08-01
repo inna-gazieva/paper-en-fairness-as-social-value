@@ -25,6 +25,9 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.21509403
     description: "Concept DOI covering all versions (Zenodo)"
+  - type: doi
+    value: 10.31235/osf.io/9sk46_v1
+    description: "SocArXiv preprint of this translation"
 preferred-citation:
   type: article
   title: >-

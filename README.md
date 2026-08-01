@@ -65,6 +65,8 @@ Gazieva, I. A. (2026). *Students' perceptions regarding the fairness as a social
 (Author's English translation)*. Zenodo.
 <https://doi.org/10.5281/zenodo.21509403> (all versions: 10.5281/zenodo.21509403)
 
+Also available as a SocArXiv preprint: <https://doi.org/10.31235/osf.io/9sk46_v1>.
+
 **The original article:**
 
 - *APA:* Gazieva, I. A. (2026). Students' perceptions regarding the fairness as a social
