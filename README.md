@@ -67,6 +67,8 @@ Gazieva, I. A. (2026). *Students' perceptions regarding the fairness as a social
 
 Also available as a SocArXiv preprint: <https://doi.org/10.31235/osf.io/9sk46_v1>.
 
+*ГОСТ (перевод):* Газиева И. А. Students' Perceptions Regarding the Fairness as a Social Value : [авторский английский перевод статьи] / И. А. Газиева. — Версия 1.0. — Zenodo, 2026. — DOI: 10.5281/zenodo.21509403.
+
 **The original article:**
 
 - *APA:* Gazieva, I. A. (2026). Students' perceptions regarding the fairness as a social
@@ -93,6 +95,13 @@ Also available as a SocArXiv preprint: <https://doi.org/10.31235/osf.io/9sk46_v1
 [ORCID 0000-0002-0778-7171](https://orcid.org/0000-0002-0778-7171) ·
 [Wikidata Q140355257](https://www.wikidata.org/wiki/Q140355257) ·
 [GitHub](https://github.com/inna-gazieva)
+
+## Consistency check
+
+This repository ships a small self-check. Run `python3 tests/check_consistency.py`
+to verify that citation metadata (CITATION.cff, .zenodo.json) parse, DOIs are
+consistent across files and relative links resolve; add `--online` to also verify
+that every DOI resolves via doi.org.
 
 ## License
 
