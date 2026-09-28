@@ -35,7 +35,7 @@ universities.
 
 The empirical model applied here was developed in the author's monograph *Sociology of
 Values: Research Methodology* (Moscow: Infra-M, 2024, [doi:10.12737/2133680](https://doi.org/10.12737/2133680))
-and in her doctoral dissertation (2025, [doi:10.5281/zenodo.21500892](https://doi.org/10.5281/zenodo.21500892)).
+and in her doctoral dissertation (2025, [doi:10.5281/zenodo.21500891](https://doi.org/10.5281/zenodo.21500891)).
 
 ## Files
 
@@ -85,7 +85,7 @@ Also available as a SocArXiv preprint: <https://doi.org/10.31235/osf.io/9sk46_v1
 - Doctoral dissertation: *Formation of the Professional Potential of Youth in the System of
   Higher Education: A Value-Based Approach* (RANEPA, 2025) —
   [GitHub](https://github.com/inna-gazieva/dissertation-professionalnyj-potencial) ·
-  [doi:10.5281/zenodo.21500892](https://doi.org/10.5281/zenodo.21500892)
+  [doi:10.5281/zenodo.21500891](https://doi.org/10.5281/zenodo.21500891)
 - Monograph: *Sociology of Values: Research Methodology* (Moscow: Infra-M, 2024) —
   [doi:10.12737/2133680](https://doi.org/10.12737/2133680)
 - Monograph: *Values of Student Youth* (Moscow: Infra-M, 2025) —
